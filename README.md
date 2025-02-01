@@ -24,4 +24,4 @@ Easy way to design Website.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-(src/Assets/swiper.png)
+![screenshot](images/car.png)
